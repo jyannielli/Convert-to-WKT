@@ -9,7 +9,7 @@ For example,
 
 41.307621, -72.9246216  -->  GEOMETRYCOLLECTION(POINT(-8117931.74167 5057822.12513))
 
-I found these formulas online a while back, but I can't seem to locate the oringinals now. I am posting the full code here so others may benefit. If the original author(s) wish to assert a proprietary right, please let me know!
+I found these formulas online a while back, but I can't seem to locate the originals now. I am posting the full code here so others may benefit. If the original author(s) wish to assert a proprietary right, please let me know!
 
 
 
